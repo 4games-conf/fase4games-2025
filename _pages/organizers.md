@@ -9,13 +9,6 @@ yann_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-  - image_path: /assets/images/pics/yann.jpg
-    title: "Yann-Gaël Guéhéneuc"
-    excerpt: "Yann-Gaël Guéhéneuc has been a full professor at the Department of Computer Science and Software Engineering of Concordia University since 2017."
-    url: "http://www.ptidej.net/Members/guehenyg"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-
   - image_path: /assets/images/pics/jessie.png
     title: "Jessie Galasso"
     excerpt: "Jessie Galasso is assistant Professor in the Department of Electrical and Computer Engineering of the Faculty of Engineering at McGill University."
@@ -27,6 +20,13 @@ yann_row:
     title: "Fabio Petrillo"
     excerpt: "Fabio Petrillo serves as an associate professor in the Department of Software Engineering and IT at École de Technologie Supérieure in Montreal, Canada."
     url: "https://fabiopetrillo.com/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/pics/yann.jpg
+    title: "Yann-Gaël Guéhéneuc"
+    excerpt: "Yann-Gaël Guéhéneuc has been a full professor at the Department of Computer Science and Software Engineering of Concordia University since 2017."
+    url: "http://www.ptidej.net/Members/guehenyg"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
