@@ -2,10 +2,24 @@
 title: "Organizers"
 permalink: /organizers/
 yann_row:
+  - image_path: /assets/images/pics/cristiano.jpg
+    title: "Cristiano Politowski"
+    excerpt: "Cristiano Politowski is an assistant professor at Ontario Tech University, Canada, researching machine learning applied to software engineering, particularly game testing."
+    url: "https://cpoli.live"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
   - image_path: /assets/images/pics/yann.jpg
     title: "Yann-Gaël Guéhéneuc"
     excerpt: "Yann-Gaël Guéhéneuc has been a full professor at the Department of Computer Science and Software Engineering of Concordia University since 2017."
     url: "http://www.ptidej.net/Members/guehenyg"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+  - image_path: /assets/images/pics/jessie.png
+    title: "Jessie Galasso"
+    excerpt: "Jessie Galasso is assistant Professor in the Department of Electrical and Computer Engineering of the Faculty of Engineering at McGill University."
+    url: "https://jgalasso.github.io/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
@@ -16,12 +30,6 @@ yann_row:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-  - image_path: /assets/images/pics/cristiano.jpg
-    title: "Cristiano Politowski"
-    excerpt: "Cristiano Politowski is an assistant professor at Ontario Tech University, Canada, researching machine learning applied to software engineering, particularly game testing."
-    url: "https://cpoli.live"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
 ---
 
 <!-- {% include gallery caption="This is a sample gallery with **Markdown support**." %}

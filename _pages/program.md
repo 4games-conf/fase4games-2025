@@ -3,7 +3,9 @@ title: "Program"
 permalink: /program/
 ---
 
-The event will be live on Youtube/Twitch (link soon).
+TBA
+
+<!-- The event will be live on Youtube/Twitch (link soon).
 
 Time zone in Porto de Galinhas, Brazil (GMT-3) .
 
@@ -46,4 +48,4 @@ Round table discussion: challenges and opportunities in software engineering for
 
 ---
 
-closing session
+closing session -->
