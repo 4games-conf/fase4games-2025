@@ -62,8 +62,6 @@ FaSE4Games'25 provides a forum to explore the challenges that crosscut the softw
 
 # Paper Selection
 
-The program committee will accept **4-6 long papers** and **6-8 short papers**. 
-
 The page limits are **5 to 8 pages** for short and long papers, respectively. For each accepted paper, we will require at least one author to register, attend, and present.
 
 # Proceedings
