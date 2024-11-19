@@ -45,6 +45,9 @@ Such challenges include, but are not limited to:
 - **Software processes** for games.
 - **Software testing** for games.
 - **Tools and environments** for game development.
+- **Debugging** for games.
+- **Software Quality** for games.
+- **Game design/requirements engineering** in games.
 
 
 # Audience

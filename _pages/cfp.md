@@ -34,6 +34,9 @@ Challenges to be discussed in FASE4Games’25 include, but are not limited to:
 - **Software processes** for games.
 - **Software testing** for games.
 - **Tools and environments** for game development.
+- **Debugging** for games.
+- **Software Quality** for games.
+- **Game design/requirements engineering** in games.
 
 
 ## Important Dates
