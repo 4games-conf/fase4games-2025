@@ -52,13 +52,19 @@ Submissions are accepted as follows:
 - **Long research papers:** 8 pages (including references)
 - **Short research papers:** 5 pages (including references)
 
-Authors using LaTeX should use the `sample-acmsmall-conf.tex` file (found in the samples folder of the acmart package) with the `acmsmall` option. We strongly encourage the use of the `review`, `screen`, and `anonymous` options as well. In summary, use the following LaTeX document class:  
+Each submission requires using the following booktitle:
 
 ```latex
-\documentclass[acmsmall,screen,review,anonymous]{acmart}
+\acmBooktitle{Companion Proceedings of the 33rd ACM Symposium on the Foundations of Software Engineering (FSE '25), June 23--27, 2025, Trondheim, Norway}
 ```
 
-Papers must be submitted electronically through the EasyChair site: **[https://fase4games25.hotcrp.com/](https://fase4games25.hotcrp.com/)**  
+Regarding document class:
+
+```latex
+\documentclass[sigconf,screen]{acmart}
+```
+
+Papers must be submitted electronically through the HOTCRP site: **[https://fase4games25.hotcrp.com/](https://fase4games25.hotcrp.com/)**  
 
 Each submission will be reviewed by at least **three members** of the program committee. The review process will determine if the submission is accepted or rejected.  
 
