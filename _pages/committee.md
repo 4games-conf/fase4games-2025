@@ -12,7 +12,7 @@ feature_row:
   title: "Andrew Hogue"
   excerpt: "Ontario Tech University"
   url: "https://ontariotechu.ca/experts/fbit/andrew-hogue.php"
-  	 
+  
 - image_path: /assets/images/pics/maxim.jpg
   title: "Bruce Maxim"
   excerpt: "University of Michigan"
