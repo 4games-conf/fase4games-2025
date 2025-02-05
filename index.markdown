@@ -71,6 +71,12 @@ The page limits are **5 to 8 pages** for short and long papers, respectively. Fo
 
 The proceedings will appear in the ACM digital library. Consequently, at least one of the authors must register for the workshop.
 
+# ASE Journal: Special Issue on Software Engineering for Games 
+
+This special issue provides an opportunity to submit extended versions of accepted papers from any edition of the FASE workshop.
+
+More info at [https://ause-journal.github.io/25games.html](https://ause-journal.github.io/25games.html)
+
 
 
 <!-- Find us at **?** -->

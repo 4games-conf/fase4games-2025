@@ -85,6 +85,12 @@ FASE4Games requires that **at least one author** of each accepted paper register
 
 As a published ACM author, you and your co-authors are subject to all ACM Publications Policies, including ACM’s new Publications Policy on Research Involving Human Participants and Subjects.  
 
+## ASE Journal: Special Issue on Software Engineering for Games 
+
+This special issue provides an opportunity to submit extended versions of accepted papers from any edition of the FASE workshop.
+
+More info at [https://ause-journal.github.io/25games.html](https://ause-journal.github.io/25games.html)
+
 
 ## Contact
 
