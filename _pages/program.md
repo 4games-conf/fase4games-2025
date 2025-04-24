@@ -3,49 +3,40 @@ title: "Program"
 permalink: /program/
 ---
 
-TBA
+## Keynote speaker: [Simon McCallum](https://homepages.ecs.vuw.ac.nz/~simon/)
 
-<!-- The event will be live on Youtube/Twitch (link soon).
+Simon McCallum is a Senior Lecturer at Victoria University of Wellington. My research focuses on Mobile Apps and Computer Games applied to societal challenges of mental health, climate change and education.
 
-Time zone in Porto de Galinhas, Brazil (GMT-3) .
+He has been lecturing in Computer Science since 1999, and created the first University level Game Development courses in New Zealand in 2004. He spent 11 years in Norway working as a game developer and teaching game development.
 
-The paper presentations will be **20 minutes** plus 10 minutes of Q&A and discussion.
+## Accepted papers
 
-## Session A: LEVEL 1 - GAME TESTING
-> 9:00 - 10:30
+### Multi-Agent Differential Testing for the Game of Go
 
-* (09:00 - 09:30) Introduction and Welcome 
-* (09:30 - 10:00) Ciprian Paduraru, Alin Stefanescu and Augustin Jianu. **Unit test generation using large language models for Unity game development**
-* (10:00 - 10:30) Patric Feldmeier and Gordon Fraser. **Combining Neuroevolution with the Search for Novelty to Improve the Generation of Test Inputs for Games**
+- **Jiaxue Song**, Beijing University of Chemical Technology
+- **Xiao-Yi Zhang**, University of Science and Technology Beijing
+- **Paolo Arcaini**, National Institute of Informatics
+- **Fuyuki Ishikawa**, National Institute of Informatics
+- **Yong Liu**, Beijing University of Chemical Technology
+- **Bin Du**, Beijing University of Chemical Technology
 
-## Session B: LEVEL 2 - GAME DEVELOPMENT
-> 11:00 - 12:00
+Artificial intelligent (AI) techniques have been successfully applied in various domains, especially in complex games like Go. Indeed, although Go has simple rules, it has countless variations of possible positions, making it an extremely difficult game. Therefore, it has been taken as a benchmark to assess the abilities of AI agents (called Go Agents). However, assessing the performance of the decision-making of a Go agent is challenging; indeed, since Go agents play much better than humans, it is difficult to establish intuitive rules or to rely on human experts to determine whether a Go agent's decision is correct or not. While professional players can do it, they can not evaluate too many moves. To tackle these issues, in this paper we propose a differential testing approach, called Multi-Agent Differential testing For the game of Go (MAD4Go), to identify interesting test cases in which a Go agent may perform a non-optimal move. Specifically, we play different Go agents over the same tests and we check whether they agree with each other. In case of disagreement, we assess the level of disagreement. If two agents strongly disagree with each other, it is more likely that at least one agent made a wrong decision. We conducted experiments by evaluating Go agents from Leela Zero, using as tests different Go positions obtained from real Go games of professional players. Results revealed diverse disagreements among agents, showing that MAD4Go can identify valuable test cases.
 
-* (11:00 - 11:30) Stefano Campanella, Emanuela Guglielmi, Rocco Oliveto, Gabriele Bavota and Simone Scalabrino. **Towards the Automatic Replication of Gameplays to Support Game Debugging**
-* (11:30 - 12:00) Xiaozhou Li, Valentina Lenarduzzi and Davide Taibi. **A Data-driven Analysis of Player Personalities for Different Game Genres**
+### Enhancing Emotional Realism in Games: An Optimized Generative AI Framework for Dynamic 3D Facial Animation
 
-## Session C: BOSS FIGHT - KEYNOTE
-> 14:00 - 15:30 
+- **Jonas de Araújo Luz Junior**, Universidade de Fortaleza
+- **Rafael Fonseca Pessoa**, Universidade de Fortaleza
+- **Guadalupe P. Saldanha Ribeiro**, Universidade de Fortaleza
+- **João Vitor Vieira Lira**, Universidade de Fortaleza
+- **Maria Andréia Formico Rodrigues**, Universidade de Fortaleza
 
-**Prof. Rodrigo Santos**
+Facial expressiveness is essential for immersive gaming, yet generating emotionally responsive 3D characters remains challenging. This paper presents an optimized generative AI framework that integrates OpenAI’s LLMs with OpenFace to improve blendshape-AU mapping for dynamic facial animation. The system, embedded in an original game scene, generates facial expressions based on interactive player dialogues. From a software engineering perspective, it features modular, scalable AI-driven animation pipelines that support adaptive emotion modeling and game engine integration. User evaluations demonstrate high realism, clear emotion recognition, and strong engagement, confirming the system’s potential to enhance player interaction. Further refinements in blendshape mappings and real-time adjustments can enhance the differentiation of subtle emotions like Disgust and Contempt, improving the system’s overall expressiveness.
 
-Head of Complex Systems Engineering Lab
+### Incorporating Multiple Self-Adaptive Agents in Games
 
-Associate Professor of Information Systems
+- **Steven Streasick**, Grand Valley State University
+- **Erik Fredericks**, Grand Valley State University
+- **Byron DeVries**, Grand Valley State University
+- **Ira Woodring**, Grand Valley State University
 
-### Title: Software Ecosystems in Industry
-
-Abstract: The globalization of the software industry creates business opportunities for organizations that acquire and offer IT products and services in several domains, including digital games. However, the growing dependency on the networks of suppliers and external developers to reach organizational objectives and to analyze diversified stakeholders' demands brings several challenges. The reason is the fact that the set of technologies and applications – extensible and/or integrated – forms a common technological platform that joins a community of suppliers, external developers and users, generating networks known as software ecosystems (SECO). An important concern refers to SECO modeling and analysis since IT managers should make decisions based on a systemic perspective. In this talk, we aim to introduce some concepts and factors that affect SECO modeling and analysis in industry. In addition, some SECO implications on the applied software engineering for games will be pointed out.
-
-Bio: Rodrigo Santos is an Associate Professor at the Department of Applied Informatics at the Federal University of the State of Rio de Janeiro (UNIRIO) and Research Productivity Fellow Level 2 by the Brazilian National Council for Scientific and Technological Development (CNPq). PhD in Software Engineering from the Federal University of Rio de Janeiro (COPPE/UFRJ). He was Academic Visitor at University College London (UCL) and Postdoc Researcher at COPPE/UFRJ. Head of the Complex Systems Engineering Laboratory (LabESC), leading a team of 20 students with more than 30 partners over the world. His research interests are Complex Systems Engineering (especially software ecosystems and systems-of-systems) and Software Engineering Education. He is the steering committee chair for SESoS@ICSE and was guest editor for special issues/sections for Information and Software Technology (Elsevier), Journal of Software: Evolution and Process (Wiley), Communications in Computer and Information Science (Springer), Journal of Internet Services and Applications (SBC & Springer), and Journal of the Brazilian Computer Society (SBC & Springer). He also served as PC member for ICSE-SEET, ICSE-SCORE. SESoS, ECSA, MODELS, ICSOB, CIbSE, IWSiB, ECIS, ACM MEDES etc., and as reviewer for IEEE TSE, JSS, IST, COMIND, ESWA, SCP, JSEP, FGCS, IJDRR etc.
-
-![](../assets/images/pics/rodrigo-keynote.jpeg)
-
-## Session D: CONTINUE?
-> 16:00 - 17:00
-
-Round table discussion: challenges and opportunities in software engineering for game development.
-
----
-
-closing session -->
+A self-adaptive system (SAS) is capable of modifying its behavior at run-time to address uncertainty. For games, these self-adaptations can present a more dynamic experience (e.g., changing difficulty, optimizing performance), thereby enabling run-time updates to mitigate potential issues experienced during gameplay. For example, a self-adaptation may result in emergent behaviors that keep the player engaged or optimize performance to support a multitude of device configurations. Notably, games that leverage a run-time feedback loop have previously demonstrated success in optimizing a game's frame rate. However, multi-agent systems that incorporate self-adaptation remain largely unexplored in the video games domain.  This paper demonstrates a novel approach for using multiple goal models with competing metrics for expressing optimal behavior in balancing and mitigating video game uncertainties. To support this goal, we adapt an existing browser-based game to a new framework that incorporates two distinct self-adaptive agents with potentially competing objectives.
