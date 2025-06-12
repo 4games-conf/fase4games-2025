@@ -3,11 +3,17 @@ title: "Program"
 permalink: /program/
 ---
 
-## Keynote speaker: [Simon McCallum](https://homepages.ecs.vuw.ac.nz/~simon/)
+## When?
+
+Friday 27, June 2025. 11h00 to 13h00 (GMT+2). 
+
+<!-- 6 hours ahead.    -->
+
+<!-- ## Keynote speaker: [Simon McCallum](https://homepages.ecs.vuw.ac.nz/~simon/)
 
 Simon McCallum is a Senior Lecturer at Victoria University of Wellington. My research focuses on Mobile Apps and Computer Games applied to societal challenges of mental health, climate change and education.
 
-He has been lecturing in Computer Science since 1999, and created the first University level Game Development courses in New Zealand in 2004. He spent 11 years in Norway working as a game developer and teaching game development.
+He has been lecturing in Computer Science since 1999, and created the first University level Game Development courses in New Zealand in 2004. He spent 11 years in Norway working as a game developer and teaching game development. -->
 
 ## Accepted papers
 
