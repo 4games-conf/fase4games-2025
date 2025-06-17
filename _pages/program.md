@@ -3,17 +3,40 @@ title: "Program"
 permalink: /program/
 ---
 
-## When?
+## Friday 27, June 2025. 11h00 to 13h00 (GMT+2). 
 
-Friday 27, June 2025. 11h00 to 13h00 (GMT+2). 
+## Workshop Program (GMT+2)
 
-<!-- 6 hours ahead.    -->
+| Time              | Session                                                                 |
+|-------------------|-------------------------------------------------------------------------|
+| 11h00 – 11h10     | **Welcome & Introduction**                                              |
+|                   | Opening remarks and overview of the workshop program                    |
+| 11h10 – 11h30     | **Paper: Multi-Agent Differential Testing for the Game of Go**          |
+|                   | Jiaxue Song, Xiao-Yi Zhang, Paolo Arcaini, Fuyuki Ishikawa, Yong Liu, Bin Du |
+|                   | A differential testing method using multiple Go agents to detect non-optimal moves through disagreement analysis. |
+| 11h30 – 11h35     | Q&A                                                                     |
+| 11h35 – 11h55     | **Paper: Enhancing Emotional Realism in Games**                         |
+|                   | Jonas de Araújo Luz Junior, Rafael Fonseca Pessoa, Guadalupe P. Saldanha Ribeiro, João Vitor Vieira Lira, Maria Andréia Formico Rodrigues |
+|                   | An optimized generative AI framework for dynamic 3D facial animation, integrating LLMs and OpenFace. |
+| 11h55 – 12h00     | Q&A                                                                     |
+| 12h00 – 12h20     | **Paper: Incorporating Multiple Self-Adaptive Agents in Games**         |
+|                   | Steven Streasick, Erik Fredericks, Byron DeVries, Ira Woodring         |
+|                   | A novel framework combining goal models and adaptive agents to dynamically address uncertainty in gameplay. |
+| 12h20 – 12h25     | Q&A                                                                     |
+| 12h25 – 13h00     | **Keynote: Jeremy Bradbury**                                             |
+|                   | Professor of Computer Science, Ontario Tech University (Canada)         |
+|  | **Closing** | 
 
-<!-- ## Keynote speaker: [Simon McCallum](https://homepages.ecs.vuw.ac.nz/~simon/)
 
-Simon McCallum is a Senior Lecturer at Victoria University of Wellington. My research focuses on Mobile Apps and Computer Games applied to societal challenges of mental health, climate change and education.
 
-He has been lecturing in Computer Science since 1999, and created the first University level Game Development courses in New Zealand in 2004. He spent 11 years in Norway working as a game developer and teaching game development. -->
+## Keynote
+
+**[Jeremy Bradbury](sqrlab.ca)**
+
+Professor of Computer Science, Ontario Tech University (Canada)
+Director, Software Quality Research Lab (SQRL)
+
+Jeremy Bradbury is a Professor of Computer Science at Ontario Tech University in Oshawa, Canada, where he leads the Software Quality Research Lab (SQRL). His research focuses on improving software quality through better development practices, testing tools, and education. He explores the use of machine learning for automating software testing and analysis, and he is a strong advocate for AI-powered personalized learning to support both computer science education and software developer retraining. His work bridges research and practice, aiming to make software engineering more robust, accessible, and intelligent.
 
 ## Accepted papers
 
