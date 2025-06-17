@@ -13,15 +13,12 @@ permalink: /program/
 |                   | Opening remarks and overview of the workshop program                    |
 | 11h10 – 11h30     | **Paper: Multi-Agent Differential Testing for the Game of Go**          |
 |                   | Jiaxue Song, Xiao-Yi Zhang, Paolo Arcaini, Fuyuki Ishikawa, Yong Liu, Bin Du |
-|                   | A differential testing method using multiple Go agents to detect non-optimal moves through disagreement analysis. |
 | 11h30 – 11h35     | Q&A                                                                     |
 | 11h35 – 11h55     | **Paper: Enhancing Emotional Realism in Games**                         |
 |                   | Jonas de Araújo Luz Junior, Rafael Fonseca Pessoa, Guadalupe P. Saldanha Ribeiro, João Vitor Vieira Lira, Maria Andréia Formico Rodrigues |
-|                   | An optimized generative AI framework for dynamic 3D facial animation, integrating LLMs and OpenFace. |
 | 11h55 – 12h00     | Q&A                                                                     |
 | 12h00 – 12h20     | **Paper: Incorporating Multiple Self-Adaptive Agents in Games**         |
 |                   | Steven Streasick, Erik Fredericks, Byron DeVries, Ira Woodring         |
-|                   | A novel framework combining goal models and adaptive agents to dynamically address uncertainty in gameplay. |
 | 12h20 – 12h25     | Q&A                                                                     |
 | 12h25 – 13h00     | **Keynote: Jeremy Bradbury**                                             |
 |                   | Professor of Computer Science, Ontario Tech University (Canada)         |
@@ -31,7 +28,7 @@ permalink: /program/
 
 ## Keynote
 
-**[Jeremy Bradbury](sqrlab.ca)**
+**[Jeremy Bradbury](https://www.sqrlab.ca/)**
 
 Professor of Computer Science, Ontario Tech University (Canada)
 Director, Software Quality Research Lab (SQRL)
