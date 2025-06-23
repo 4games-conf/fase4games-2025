@@ -20,7 +20,7 @@ permalink: /program/
 | 12h00 – 12h20     | **Paper: Incorporating Multiple Self-Adaptive Agents in Games**         |
 |                   | Steven Streasick, Erik Fredericks, Byron DeVries, Ira Woodring         |
 | 12h20 – 12h25     | Q&A                                                                     |
-| 12h25 – 13h00     | **Keynote: Jeremy Bradbury**                                             |
+| 12h25 – 13h00     | **Keynote: Jeremy Bradbury - "Personalizing Software Engineering Serious Games Using AI**                                             |
 |                   | Professor of Computer Science, Ontario Tech University (Canada)         |
 |  | **Closing** | 
 
@@ -33,7 +33,11 @@ permalink: /program/
 Professor of Computer Science, Ontario Tech University (Canada)
 Director, Software Quality Research Lab (SQRL)
 
-Jeremy Bradbury is a Professor of Computer Science at Ontario Tech University in Oshawa, Canada, where he leads the Software Quality Research Lab (SQRL). His research focuses on improving software quality through better development practices, testing tools, and education. He explores the use of machine learning for automating software testing and analysis, and he is a strong advocate for AI-powered personalized learning to support both computer science education and software developer retraining. His work bridges research and practice, aiming to make software engineering more robust, accessible, and intelligent.
+Title: Personalizing Software Engineering Serious Games Using AI
+
+Description: Serious games can enhance learning and problem-solving skills while increasing engagement. Despite the success of serious games, a significant limitation is their ability to support learners with different competency levels and educational backgrounds. The inability to adapt to an individual learner’s needs can impact their state of flow and lead to frustration or boredom. One opportunity that we have explored is how to support personalized learning in Software Engineering serious games using AI. Personalized learning can involve adapting game content, help systems or game play. In this talk, I will discuss my lab’s experiences with developing adaptive serious games to support learning in programming as well as in testing and debugging. Furthermore, I will discuss an approach to retrofitting personalization via AI into existing serious games as well as the main challenges that arise. I’ll end with a discussion on future directions at the intersection of AI and serious games.
+
+Bio: Jeremy Bradbury is a Professor of Computer Science at Ontario Tech University in Oshawa, Canada, where he leads the Software Quality Research Lab (SQRL). His research focuses on improving software quality through better development practices, testing tools, and education. He explores the use of machine learning for automating software testing and analysis, and he is a strong advocate for AI-powered personalized learning to support both computer science education and software developer retraining. His work bridges research and practice, aiming to make software engineering more robust, accessible, and intelligent.
 
 ## Accepted papers
 
