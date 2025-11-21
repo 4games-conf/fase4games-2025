@@ -10,7 +10,7 @@ title: "Foundations of Applied Software Engineering for Games workshop (FaSE4Gam
 
 > Mon 23 - Fri 27 June 2025 | Trondheim, Norway
 
-![FaSE4Games photo]("assets/images/pics/fase4games25.jpg")
+![FaSE4Games photo](assets/images/pics/fase4games25.jpg)
 
 
 # Theme
